@@ -31,7 +31,7 @@ def count():
         curr = curr + 1
 
 
-def test():
+def test(): # Quiz time
     print("Let's test your programming knowledge.")
     print("Why do we use methods?\n1. To repeat a statement multiple times.\n2. To decompose a program into several small subroutines.\n3. To determine the execution time of a program.\n4. To interrupt the execution of a program.")
     while True:
